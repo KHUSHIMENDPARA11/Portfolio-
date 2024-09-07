@@ -10,7 +10,8 @@ SDJ International College     July 2019 - Fabruary 2022
 - Bechlore of computer Application 
 
 # Projects
-- Cloud-Based Property Management System for Comet Way Rentals
+- **Cloud-Based Property Management System for Comet Way Rentals**
+
   February 2023 – May 2023 | University of Texas at Dallas
 
   Overview: Developed an advanced cloud-based ERP system to streamline tenant management, lease processing, and maintenance workflows for Comet Way Rentals, a management company     overseeing 35 apartment complexes.
@@ -24,6 +25,7 @@ SDJ International College     July 2019 - Fabruary 2022
   Impact: Enhanced the operational efficiency of the property management system, providing tenants with real-time updates, improving communication, and reducing response times.
 
 - Happy Tummy - Personalized Meal and Fitness App
+
   November 2021 – February 2022 | SDJ International College
 
   Overview: Led the development of a mobile application focused on personalized meal and fitness plans. This project aimed to enhance user engagement by providing tailored content   based on individual preferences.
@@ -36,6 +38,7 @@ SDJ International College     July 2019 - Fabruary 2022
   Impact: Helped users achieve their health and fitness goals by providing personalized and flexible plans, contributing to a healthier lifestyle for the app’s growing user base.
 
 - Blockchain in Pharmaceutical Supply Chains Research
+
   March 2024 – May 2024
 
   Overview: Conducted research exploring how blockchain technology can enhance transparency, traceability, and accountability within the pharmaceutical supply chain, addressing     critical challenges like drug counterfeiting.
