@@ -2,6 +2,7 @@
 khushimendpara11.github.io/portfolio
 # Data Analyst
 **Objective**
+
 A dedicated and adaptable software developer with experience in fast-paced development environments, aiming to specialize in data analytics and blockchain technologies while solving complex problems and delivering high-quality software solutions
 
 # Education 
