@@ -5,6 +5,7 @@ khushimendpara11.github.io/portfolio
 # Education 
 University of Texas at Dallas January 2023- December 2024
 - Master of information Science in Information Technology Management 
+
 SDJ International College     July 2019 - Fabruary 2022
 - Bechlore of computer Application 
 
