@@ -5,10 +5,12 @@ khushimendpara11.github.io/portfolio
 A dedicated and adaptable software developer with experience in fast-paced development environments, aiming to specialize in data analytics and blockchain technologies while solving complex problems and delivering high-quality software solutions
 
 # Education 
-University of Texas at Dallas January 2023- December 2024
+University of Texas at Dallas 
+January 2023- December 2024
 - Master of information Science in Information Technology Management 
 
-SDJ International College     July 2019 - Fabruary 2022
+SDJ International College     
+July 2019 - Fabruary 2022
 - Bechlore of computer Application 
 
 # Projects
