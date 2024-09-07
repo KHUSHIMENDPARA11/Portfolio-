@@ -14,10 +14,10 @@ SDJ International College     July 2019 - Fabruary 2022
 
   February 2023 – May 2023 | University of Texas at Dallas
 
-  **Overview:** Developed an advanced cloud-based ERP system to streamline tenant management, lease processing, and maintenance workflows for Comet Way Rentals, a management company     overseeing 35 apartment complexes.
+  **Overview:** Developed an advanced cloud-based ERP system to streamline tenant management, lease processing, and maintenance workflows for Comet Way Rentals, a management     company     overseeing 35 apartment complexes.
 
- ** Key Contributions:**
 
+  **key Contributions:**
   Reduced Manual Errors: Automated several processes, reducing manual data entry errors by 85%, significantly improving accuracy across operations.
   Client-Server Framework: Designed and implemented a secure client-server architecture allowing remote access and real-time updates, improving operational agility and scalability.
   Data Management: Enhanced the database architecture, optimizing centralized data handling, which improved retrieval speed by 40%, ensuring accurate and consistent data across      all properties.
